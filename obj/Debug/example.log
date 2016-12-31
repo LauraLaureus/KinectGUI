@@ -1,0 +1,169 @@
+﻿cl : Línea de comandos warning D9030: '/Gm' es incompatible con el multiprocesamiento; se omitirá el modificador /MP
+  ofApp.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  main.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  ofxKinectV2.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  ofRGBPacketProcessor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\protonect\ofrgbpacketprocessor.cpp(31): warning C4996: 'ofPixels_<unsigned char>::getPixels': Use getData instead
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\libs\openframeworks\graphics\ofpixels.h(210): note: vea la declaración de 'ofPixels_<unsigned char>::getPixels'
+  ofProtonect.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  usb_control.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  transfer_pool.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  rgb_packet_stream_parser.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\rgb_packet_stream_parser.cpp(44): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\rgb_packet_stream_parser.cpp(44): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  rgb_packet_processor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+  resource.cpp
+  registration.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(44): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(45): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(185): warning C4244: 'inicializando': conversión de 'const float' a 'int'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(185): warning C4244: 'inicializando': conversión de 'const float' a 'const int'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(286): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(287): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\registration.cpp(320): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  packet_pipeline.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+  opengl_depth_packet_processor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(897): warning C4018: '>': no coinciden signed/unsigned
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(891): note: durante la compilación de la función miembro de plantilla de clase 'void libfreenect2::Texture<libfreenect2::F32C2>::allocate(std::size_t,std::size_t)'
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(1123): note: vea la referencia a la creación de instancias de plantilla de función 'void libfreenect2::Texture<libfreenect2::F32C2>::allocate(std::size_t,std::size_t)' que se está compilando
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(994): note: vea la referencia a la creación de instancias de plantilla de clase 'libfreenect2::Texture<libfreenect2::F32C2>' que se está compilando
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(950): warning C4018: '<': no coinciden signed/unsigned
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(943): note: durante la compilación de la función miembro de plantilla de clase 'void libfreenect2::Texture<libfreenect2::F32C1>::flipYBuffer(unsigned char *)'
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(964): note: vea la referencia a la creación de instancias de plantilla de función 'void libfreenect2::Texture<libfreenect2::F32C1>::flipYBuffer(unsigned char *)' que se está compilando
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: vea la declaración de 'std::copy::_Unchecked_iterators::_Deprecate'
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp(1492): note: vea la referencia a la creación de instancias de plantilla de función '_OutIt *std::copy<unsigned char*,unsigned char*>(_InIt,_InIt,_OutIt)' que se está compilando
+          with
+          [
+              _OutIt=unsigned char *,
+              _InIt=unsigned char *
+          ]
+  opencl_depth_packet_processor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\cl\cl.hpp(170): fatal error C1083: No se puede abrir el archivo incluir: 'CL/opencl.h': No such file or directory
+  logging.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\logging.cpp(52): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1183): note: vea la declaración de 'getenv'
+  libfreenect2.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\libfreenect2.cpp(128): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\libfreenect2.cpp(129): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  frame_listener_impl.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+  flextGL.cpp
+  event_loop.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+  double_buffer.cpp
+  Generando código...
+  Compilando...
+  depth_packet_stream_parser.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+  depth_packet_processor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+  cpu_depth_packet_processor.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp(67): warning C4146: operador unario menos aplicado a un tipo unsigned; el resultado aún no tiene signo
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(104): warning C4018: '<': no coinciden signed/unsigned
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h(247): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(388): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(448): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(462): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(642): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(643): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(644): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(670): warning C4305: '*=': truncamiento de 'double' a 'float'
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(671): warning C4305: '*=': truncamiento de 'double' a 'float'
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(672): warning C4305: '*=': truncamiento de 'double' a 'float'
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(721): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: vea la declaración de 'std::copy::_Unchecked_iterators::_Deprecate'
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp(883): note: vea la referencia a la creación de instancias de plantilla de función '_OutIt std::copy<const float*,ScalarT*>(_InIt,_InIt,_OutIt)' que se está compilando
+          with
+          [
+              _OutIt=float *,
+              ScalarT=float,
+              _InIt=const float *
+          ]
+  command_transaction.cpp
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(738): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(769): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): warning C4200: se ha utilizado una extensión no estándar: matriz de tamaño cero en struct/union
+  c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libusb\include\libusb\libusb.h(1262): note: Un constructor con valor predeterminado o un operador de asignación de copia o movimiento ignorará a este miembro.
+c:\users\laura\documents\visual studio 2015\of_v0.9.8_vs_release\addons\ofxkinectv2\libs\libfreenect2\src\command_transaction.cpp(52): warning C4018: '<': no coinciden signed/unsigned
+  ofxToggle.cpp
+  ofxSliderGroup.cpp
+  ofxSlider.cpp
+  ofxPanel.cpp
+  ofxLabel.cpp
+  ofxGuiGroup.cpp
+  ofxButton.cpp
+  ofxBaseGui.cpp
+  Generando código...

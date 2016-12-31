@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\src\ofxKinectV2.cpp">
+      <Filter>addons\ofxKinectV2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\command_transaction.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\cpu_depth_packet_processor.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\depth_packet_processor.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\depth_packet_stream_parser.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\double_buffer.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\event_loop.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\flextGL.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\frame_listener_impl.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\libfreenect2.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\logging.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\opencl_depth_packet_processor.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\opengl_depth_packet_processor.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\packet_pipeline.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\registration.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\resource.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\rgb_packet_processor.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\rgb_packet_stream_parser.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\transfer_pool.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\usb_control.cpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\protonect\ofProtonect.cpp">
+      <Filter>addons\ofxKinectV2\libs\protonect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxKinectV2\libs\protonect\ofRGBPacketProcessor.cpp">
+      <Filter>addons\ofxKinectV2\libs\protonect</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\h2DSlider.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hAlert.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hAlertLabel.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hButton.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hButtonBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hButtonBoxItem.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hCheckBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hCounterLabel.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hDialog.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hDialogButton.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hDrawingPrimitives.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hGui.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hIncButton.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hLabel.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hListBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hListItem.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hMessageBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hNumberBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hPanel.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hScrollBar.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hScrollButton.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hSlider.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hSliderBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hStatusBar.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hSVumeter.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTabBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTabBoxItem.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTextArea.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTextAreaButton.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTextBox.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hTScrollBar.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hWaveform.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhGui\src\hWidget.cpp">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhUtils\src\hEvents\hEvents.cpp">
+      <Filter>addons\ofxhUtils\src\hEvents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhUtils\src\hEvents\hSymbols.cpp">
+      <Filter>addons\ofxhUtils\src\hEvents</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhUtils\src\hStringUtils\hStringUtils.cpp">
+      <Filter>addons\ofxhUtils\src\hStringUtils</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxhUtils\src\hTable\hTable.cpp">
+      <Filter>addons\ofxhUtils\src\hTable</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{c313a098-a75a-4405-8776-6396d346e2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{017b6683-e047-4583-a347-396f227b87bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2">
+      <UniqueIdentifier>{0a222710-dbab-43cf-bbc9-c7c3f3a191c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\src">
+      <UniqueIdentifier>{6ba0957d-f398-438a-95cf-3c84d4b3b18f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs">
+      <UniqueIdentifier>{2ffcb4b2-c2d2-41c1-ba0d-0d5ef3dbdcc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2">
+      <UniqueIdentifier>{2df5c84a-6634-4241-936b-2f2bc7c04ca7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include">
+      <UniqueIdentifier>{4ae0d007-342f-42cc-8c01-e03897914ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\internal">
+      <UniqueIdentifier>{8d68fe48-7342-4551-a610-f15f17264ff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\internal\CL">
+      <UniqueIdentifier>{65c64fc2-1e0d-418c-ae66-06074b2336d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2">
+      <UniqueIdentifier>{dc78ce3b-dcd4-46a8-b73f-fbb375b8a664}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol">
+      <UniqueIdentifier>{f8ac0989-0670-4141-82fd-c62ad1737838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\usb">
+      <UniqueIdentifier>{0f996432-c0c3-4c26-8824-6f03f44ff315}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2">
+      <UniqueIdentifier>{fbc8fb5f-904a-46c3-b264-e616f52fff3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libfreenect2\src">
+      <UniqueIdentifier>{4f56658a-ce8d-4fd8-a590-22cf54e8cdbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libusb">
+      <UniqueIdentifier>{48395623-2637-44c4-adce-86a78179911f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libusb\include">
+      <UniqueIdentifier>{9141cded-81f6-4be7-8ae6-5e3753b77ef8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libusb\include\libusb">
+      <UniqueIdentifier>{4a08d79f-8864-47e2-95c3-5b2a7d140d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\libusb\include\libusb\os">
+      <UniqueIdentifier>{a8a26596-3e85-4f15-94d9-10cfb8efabc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxKinectV2\libs\protonect">
+      <UniqueIdentifier>{193e3b00-af86-4e6b-972d-e6eb6be4e61b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings">
+      <UniqueIdentifier>{30d242c0-01c0-44d4-8ec0-6635af011d4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\src">
+      <UniqueIdentifier>{f66559c7-e069-4c97-9b88-4ba4127c7049}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxXmlSettings\libs">
+      <UniqueIdentifier>{34a69948-1094-402a-bcdb-d34987a56459}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhGui">
+      <UniqueIdentifier>{c2302f44-faf3-48fb-b69e-9ecafddad41f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhGui\src">
+      <UniqueIdentifier>{0d527d33-ee5d-456f-b8d4-09f0dcd202f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhUtils">
+      <UniqueIdentifier>{27309517-6e82-4e04-b71a-a080c5f91c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhUtils\src">
+      <UniqueIdentifier>{4aff76d3-6bc9-4a1c-bfd4-24f384e46b77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhUtils\src\hEvents">
+      <UniqueIdentifier>{f049d8b7-377d-4003-bb39-7fde172186f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhUtils\src\hStringUtils">
+      <UniqueIdentifier>{7f9967e3-6975-4a44-8862-d591ae994c0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxhUtils\src\hTable">
+      <UniqueIdentifier>{55f36473-b625-43c1-9ead-7fb1c68974ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\src\ofxKinectV2.h">
+      <Filter>addons\ofxKinectV2\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\CL\cl.hpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\CL</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\async_packet_processor.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\data_callback.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\depth_packet_stream_parser.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\double_buffer.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\logging.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\resource.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\rgb_packet_stream_parser.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\threading.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol\command.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol\command_transaction.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol\response.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol\usb_control.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\protocol</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\usb\event_loop.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\usb\transfer_pool.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\internal\libfreenect2\usb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\config.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\depth_packet_processor.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\frame_listener_impl.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\logger.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\packet_pipeline.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\packet_processor.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\registration.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\rgb_packet_processor.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\frame_listener.hpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2\libfreenect2.hpp">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\include\libfreenect2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libfreenect2\src\flextGL.h">
+      <Filter>addons\ofxKinectV2\libs\libfreenect2\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\hotplug.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\libusb.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\libusbi.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\version.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\version_nano.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\darwin_usb.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\linux_usbfs.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\poll_posix.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\poll_windows.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\threads_posix.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\threads_windows.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\wince_usb.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\windows_common.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\libusb\include\libusb\os\windows_usb.h">
+      <Filter>addons\ofxKinectV2\libs\libusb\include\libusb\os</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\protonect\ofProtonect.h">
+      <Filter>addons\ofxKinectV2\libs\protonect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxKinectV2\libs\protonect\ofRGBPacketProcessor.h">
+      <Filter>addons\ofxKinectV2\libs\protonect</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>addons\ofxXmlSettings\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>addons\ofxXmlSettings\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\h2DSlider.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hAlert.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hAlertLabel.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hButton.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hButtonBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hButtonBoxItem.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hCheckBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hCounterLabel.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hDialog.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hDialogButton.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hDrawingPrimitives.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hGui.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hGui_all.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hIncButton.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hLabel.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hListBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hListItem.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hMessageBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hNumberBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hPanel.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hScrollBar.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hScrollButton.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hSlider.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hSliderBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hStatusBar.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hSVumeter.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTabBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTabBoxItem.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTextArea.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTextAreaButton.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTextBox.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hTScrollBar.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hWaveform.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhGui\src\hWidget.h">
+      <Filter>addons\ofxhGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhUtils\src\hEvents\hEvents.h">
+      <Filter>addons\ofxhUtils\src\hEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhUtils\src\hEvents\hObject.h">
+      <Filter>addons\ofxhUtils\src\hEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhUtils\src\hEvents\hSymbols.h">
+      <Filter>addons\ofxhUtils\src\hEvents</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhUtils\src\hStringUtils\hStringUtils.h">
+      <Filter>addons\ofxhUtils\src\hStringUtils</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxhUtils\src\hTable\hTable.h">
+      <Filter>addons\ofxhUtils\src\hTable</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>

@@ -1,4 +1,0 @@
-ofxXmlSettings
-ofxhGui
-ofxhUtils
-ofxKinectV2
